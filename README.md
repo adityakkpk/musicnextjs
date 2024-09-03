@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS
 
-## Getting Started
+A repository in which I have placed all the code which I have written during learning the NextJS framework.
 
-First, run the development server:
+Below is the Track of my learnings
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Day 1 - Introduction to NextJS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* **What**
+    - It is a Full Stack Framework. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Requirements/Prerequisites :**
+	- Understanding of Javascript
+	- Basic React
+	- Basic Backend (ExpressJS)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* **Initializing a new NextJS project (musicnextjs)**
+    - use the command `npx create-next-app@latest` to initialize a new NextJS app.
+    - Input the name of your project
+    - Select the plugins you want to install 
+    - Run `npm install` command to install all the dependencies and plugins.
+    - Use `npm run dev` to run your development server.
 
-## Learn More
+* **Understand the code structure**
+    - Understand the code structure of NextJS
+    - Understand the different files and configuration for the projects.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* *Note:* 
+    1. Every folder can have their own Page and Layout File. And sub folders can also do the same.
+    2. You can name anything to your folder but inside a folder you must have a `page.tsx/page.jsx`.
