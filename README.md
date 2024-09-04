@@ -28,3 +28,15 @@ Below is the Track of my learnings
 * *Note:* 
     1. Every folder can have their own Page and Layout File. And sub folders can also do the same.
     2. You can name anything to your folder but inside a folder you must have a `page.tsx/page.jsx`.
+---
+
+## Day 2 - Solving Navbar challenge
+
+* **Creating Navbar :**
+    - Creating navbar component using `Aceternity UI` Library.
+
+* **How to use the components of Aceternity UI :**
+    1. Install dependencies
+    2. Add util file
+    3. Copy the source code provided by Aceternity into `components/ui/navbar-menu.tsx`
+    4. Modify the Navbar as per your need.
