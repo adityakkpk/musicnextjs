@@ -40,3 +40,9 @@ Below is the Track of my learnings
     2. Add util file
     3. Copy the source code provided by Aceternity into `components/ui/navbar-menu.tsx`
     4. Modify the Navbar as per your need.
+---
+
+## Day 3 - Solving Hero Section challenges
+
+* **Creating Hero section :**
+    - 
