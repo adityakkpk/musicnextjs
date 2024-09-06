@@ -45,4 +45,12 @@ Below is the Track of my learnings
 ## Day 3 - Solving Hero Section challenges
 
 * **Creating Hero section :**
-    - 
+    - Creating Hero section component using `Aceternity UI` Library.
+    - Added Spotlight component in Hero Section
+
+## Day 4 - Building featured Card section
+
+* **Designed Course Cards** 
+    - Created Card Components using `Aceternity UI` Library.
+    - Added images to the card
+
