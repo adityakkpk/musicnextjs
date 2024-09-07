@@ -50,7 +50,13 @@ Below is the Track of my learnings
 
 ## Day 4 - Building featured Card section
 
-* **Designed Course Cards** 
+* **Designed Course Cards :** 
     - Created Card Components using `Aceternity UI` Library.
     - Added images to the card
+
+## Day 5 - Designing Sticky Scroll
+
+* **Designing the Sticky Scroll functionality :**
+    - Add the sticky scroll component to our application from `Aceternity UI` library.
+    - Update the content.
 
