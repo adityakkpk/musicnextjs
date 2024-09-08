@@ -60,3 +60,12 @@ Below is the Track of my learnings
     - Add the sticky scroll component to our application from `Aceternity UI` library.
     - Update the content.
 
+## Day 6 - Grid background and Moving cards
+
+* **Created moving Cards Components**
+    - Added the Moving Card Components from `Aceternity UI` Library.
+
+* **Grid Background :**
+    - Installed `mini-svg-data-uri` package
+    - Update the `tailwind.config` file accordingly.
+    - In the end we just add a class to our component to add Grid Background.
