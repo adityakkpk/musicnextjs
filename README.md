@@ -47,18 +47,21 @@ Below is the Track of my learnings
 * **Creating Hero section :**
     - Creating Hero section component using `Aceternity UI` Library.
     - Added Spotlight component in Hero Section
+---
 
 ## Day 4 - Building featured Card section
 
 * **Designed Course Cards :** 
     - Created Card Components using `Aceternity UI` Library.
     - Added images to the card
+---
 
 ## Day 5 - Designing Sticky Scroll
 
 * **Designing the Sticky Scroll functionality :**
     - Add the sticky scroll component to our application from `Aceternity UI` library.
     - Update the content.
+---
 
 ## Day 6 - Grid background and Moving cards
 
@@ -69,3 +72,12 @@ Below is the Track of my learnings
     - Installed `mini-svg-data-uri` package
     - Update the `tailwind.config` file accordingly.
     - In the end we just add a class to our component to add Grid Background.
+---
+
+## Day 7 - Card Hover effect
+
+* Creating Featured webinar Component and added sone cards with hover effect.
+* Use the `Hover Effect` card component from `Aceternity UI`.
+
+
+
