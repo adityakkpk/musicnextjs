@@ -79,5 +79,14 @@ Below is the Track of my learnings
 * Creating Featured webinar Component and added sone cards with hover effect.
 * Use the `Hover Effect` card component from `Aceternity UI`.
 
+## Day 9 - Animated ToolTip and wavy background
+
+* Animated Tooltip 
+    - Made a responsive Animated Tooltip using `Aceternity UI`.
+
+* Wavy Background
+    - Made a Wavy Background using `Aceternity UI`.
+
+
 
 
