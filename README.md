@@ -79,13 +79,22 @@ Below is the Track of my learnings
 * Creating Featured webinar Component and added sone cards with hover effect.
 * Use the `Hover Effect` card component from `Aceternity UI`.
 
-## Day 9 - Animated ToolTip and wavy background
+## Day 8 - Animated ToolTip and wavy background
 
 * Animated Tooltip 
     - Made a responsive Animated Tooltip using `Aceternity UI`.
 
 * Wavy Background
     - Made a Wavy Background using `Aceternity UI`.
+
+## Day 9 - Shadcn and Daisy UI in nextjs
+
+*  Create Routes for Courses and Contact 
+* Crete Courses page using some card components from `Aceternity UI`.
+
+* **Assignment**
+    - Create Contact page using meteoroid background components from `Aceternity UI`.
+
 
 
 
